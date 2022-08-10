@@ -3,5 +3,4 @@
 - 🌱 I’m currently learning Java
 - 📫 How to reach me:
     -E-Mail: info@lucaneumann.com
-    -Discord: Bomber_HD#2346
 
